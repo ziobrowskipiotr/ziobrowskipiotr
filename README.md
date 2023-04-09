@@ -27,5 +27,5 @@
 
 <div style="display: flex; justify-content: space-between; height: 300px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&theme=dark&background=000000" alt="Top Languages" style="width: 48%; object-fit: cover; height: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" alt="GitHub Streak" style="width: 48%; object-fit: cover; height: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" alt="GitHub Streak" style="width: 48%; object-fit: cover; height: 100%; padding-top: 11.5%;">
 </div>
