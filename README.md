@@ -16,12 +16,12 @@
 
 - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-direction: row-reverse;">
-  <div style="width: 48%;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex-basis: 48%;">
     <h3>Languages and Tools:</h3>
     <p> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </p>
   </div>
-  <div style="width: 48%;">
+  <div style="flex-basis: 48%; text-align: right;">
     <h3>Connect with me:</h3>
     <p style="display: flex; justify-content: flex-end;">
       <a href="https://www.linkedin.com/in/piotr-ziobrowski-999b0426b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-ziobrowski" height="30" width="40" /></a>
@@ -29,6 +29,7 @@
     </p>
   </div>
 </div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&theme=dark&background=000000" alt="Top Languages" style="width: 48%; object-fit: contain;">
