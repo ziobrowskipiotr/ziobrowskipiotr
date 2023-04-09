@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://img.favpng.com/18/16/23/network-cartoon-png-favpng-UjmyBJS1DbF3n7Cr74Fj61erU.jpg" width="55%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
 <h1 align="center">Hi 👋, I'm Piotr Ziobrowski</h1>
 <h3 align="center">I would like to continue developing my skills and gaining experience in various IT industries. I hope that my progress will be noticeable here, and this platform will fuel my ambitions even further.</h3>
 
