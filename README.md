@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently an ICT student at **AGH University of Science and Technology in Krakow.**
 
-- 🌱 I’m currently learning **C++, Python and computer networks.**
+- 🌱 I am actively improving my skills in C++, Python, and computer networks.**
 
 - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
 
