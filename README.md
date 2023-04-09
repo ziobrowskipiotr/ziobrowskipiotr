@@ -26,9 +26,10 @@
 <p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </a> </p>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact" alt="Top Languages" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" alt="GitHub Streak" style="width: 48%;">
 </div>
+
 
 
 
