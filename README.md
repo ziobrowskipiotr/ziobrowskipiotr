@@ -16,9 +16,11 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&theme=dark&background=000000" />
-</p>
+<div align="center">
+  <a href="https://github.com/ziobrowskipiotr/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="380" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
+  </a>
+</div>
 
 <h4 align="right">Connect with me:</h4>
 <p align="right">
