@@ -8,12 +8,12 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziobrowskipiotr" alt="ziobrowskipiotr" /></a> </p>
 
-#### - 🔭 I’m currently an **ICT** student at **AGH University of Science and Technology in Krakow**.
-#### - 🌱 I am actively improving my skills in **C++, Python, and computer networks**.
-#### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
-#### - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
+### - 🔭 I’m currently an **ICT** student at **AGH University of Science and Technology in Krakow**.
+### - 🌱 I am actively improving my skills in **C++, Python, and computer networks**.
+### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
+### - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </a> </p>
 
 <div align="center">
