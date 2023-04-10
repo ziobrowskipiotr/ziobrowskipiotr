@@ -15,11 +15,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="height: 4%; width: 4%;"/></a>
-  <a target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="height: 4%; width: 4%;"/></a>
-  <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="height: 4%; width: 4%;"/></a>
-  <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="height: 4%; width: 4%;"/></a>
-  <a target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" style="height: 6%; width: 5%;"/></a>
+  <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="height: 4vw; width: 4vw;"/></a>
+  <a target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="height: 4vw; width: 4vw;"/></a>
+  <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="height: 4vw; width: 4vw;"/></a>
+  <a target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="height: 4vw; width: 4vw;"/></a>
+  <a target="_blank" rel="noreferrer"><img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="cisco" style="height: 6vw; width: 5vw;"/></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,8 @@
 
 <h5 align="right">Connect with me:</h5>
 <p align="right">
-<a href="https://www.linkedin.com/in/piotr-ziobrowski-999b0426b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-ziobrowski" style="height: 4%; width: 4%;"/></a>
-<a href="https://www.hackerrank.com/piotrziobrowski1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piotrziobrowski1" style="height: 5%; width: 6%;" /></a>
+<a href="https://www.linkedin.com/in/piotr-ziobrowski-999b0426b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piotr-ziobrowski" style="height: 4vw; width: 4vw;"/></a>
+<a href="https://www.hackerrank.com/piotrziobrowski1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piotrziobrowski1" style="height: 5vw; width: 6vw;" /></a>
 </p>
+
 
