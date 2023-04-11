@@ -8,9 +8,9 @@
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziobrowskipiotr" alt="ziobrowskipiotr" /></a> </p>
 
-### - 🔭 I’m currently an **ICT** student at **AGH University of Science and Technology in Krakow**.
-### - 🌱 I am actively improving my skills in **C++, Python, and computer networks**.
+### - 🔭 I'm currently an **ICT** student at **AGH University of Science and Technology in Krakow**.
 ### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
+### - 🌱 I'm actively improving my skills in **C++, Python, and computer networks**.
 ### - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
 
 <h2 align="center">Languages and Tools:</h2>
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/ziobrowskipiotr/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="380" alt="JuletopiTopLangs-stats" title="Juletopi's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="380" alt="ziobrowskipiotr's stats" title="Juletopi's Coding Language Stats">
   </a>
 </div>
 
