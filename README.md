@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://github.com/ziobrowskipiotr/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="380" alt="ziobrowskipiotr's stats" title="Juletopi's Coding Language Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118" width="380" alt="ziobrowskipiotr's stats" title="ziobrowskipiotr's coding language stats">
   </a>
 </div>
 
