@@ -22,6 +22,12 @@
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/ziobrowskipiotr/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&theme=tokyonight" width="380" alt="ziobrowskipiotr's stats" title="ziobrowskipiotr's coding language stats">
+  </a>
+</div>
+
 
 <h4 align="right">Connect with me:</h4>
 <p align="right">
