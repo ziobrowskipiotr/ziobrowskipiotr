@@ -17,7 +17,7 @@
 <p align="center"> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </a> </p>
 
 <div align="center">
-  <a href="https://github.com/ziobrowskipiotr/">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&theme=tokyonight">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziobrowskipiotr&theme=tokyonight" width="380" alt="ziobrowskipiotr's stats" title="ziobrowskipiotr's coding language stats">
   </a>
 </div>
