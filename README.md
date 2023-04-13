@@ -9,7 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziobrowskipiotr" alt="ziobrowskipiotr" /></a> </p>
 
 ### - 🔭 I'm currently an **ICT** student at **AGH University of Science and Technology in Krakow**.
-### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
+### - 👨‍💻 My progress will also be visible here: [https://github.com/ziobrowskipiotr](https://github.com/ziobrowskipiotr)
 ### - 🌱 I'm actively improving my skills in **C++, Python, and computer networks**.
 ### - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
 
