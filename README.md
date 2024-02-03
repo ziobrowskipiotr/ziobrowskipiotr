@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziobrowskipiotr&label=Profile%20views&color=0e75b6&style=flat" alt="ziobrowskipiotr" /> </p>
 <p align="center">
-  <img src="https://scontent-fra5-2.xx.fbcdn.net/v/t1.15752-9/338732945_616023990371391_7522678648188597806_n.png?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=KCLl3Uy6QTEAX9ahGtT&_nc_ht=scontent-fra5-2.xx&oh=03_AdSCbocBN-Xpn2r-iLIrNeNw3fnrGKCkBXiEFtawSsS_lA&oe=645A88F6" width="60%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955" width="60%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 <h1 align="center">Hi 👋, I'm Piotr Ziobrowski</h1>
 <h3 align="center">I would like to continue developing my skills and gaining experience in various IT industries. I hope that my progress will be noticeable here, and this platform will fuel my ambitions even further.</h3>
