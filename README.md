@@ -11,7 +11,7 @@
 
 ### - 🔭 I'm currently an **ICT** student at **AGH University of Science and Technology in Cracow**.
 ### - 🌱 I'm actively improving my skills in **C++, Python, and computer networks**.
-### - ⚡ I am also committed to advancing in various aspects related to the **ICT** industry. By this, I mean everything from local IP networks to wireless networking technologies. I am very eager to introduce my ideas in this field to enhance our virtual human life.
+### - ⚡ I am also committed to advancing in various aspects related to the 										**ICT** industry. By this, I mean everything from local IP networks to wireless networking technologies. I am very eager to introduce my ideas in this field to enhance our virtual human life.
 ### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
 ### - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
 
@@ -23,6 +23,7 @@
 <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="30" height="40"/> </a>
+<a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/> </a>
 <a target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2016/11/Cisco-logo.png" alt="git" width="50" height="30"/> </a>
 </p>
 
