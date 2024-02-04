@@ -13,9 +13,6 @@
 <h2 align="center">:fire: My statistics :fire:</h2>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" /> </p>
 <p align="center"> </p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziobrowskipiotr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
 ### - 🔭 I'm currently an **ICT** student at **AGH University of Science and Technology in Cracow**.
 ### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
