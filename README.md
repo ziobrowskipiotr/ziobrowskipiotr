@@ -10,8 +10,9 @@
 <p align="center"> </p>
 
 ### - 🔭 I'm currently an **ICT** student at **AGH University of Science and Technology in Cracow**.
-### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
 ### - 🌱 I'm actively improving my skills in **C++, Python, and computer networks**.
+### - ⚡ I am also committed to advancing in various aspects related to the **ICT** industry. By this, I mean everything from local IP networks to wireless networking technologies. I am very eager to introduce my ideas in this field to enhance our virtual human life.
+### - 👨‍💻 My progress will also be visible here: [https://www.hackerrank.com/piotrziobrowski1](https://www.hackerrank.com/piotrziobrowski1)
 ### - 📫 How to reach me: **piotrziobrowski.work@gmail.com**
 
 <h2 align="center">Languages and Tools:</h2>
