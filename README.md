@@ -1,5 +1,4 @@
 <br clear="both">
-###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziobrowskipiotr&label=Profile%20views&color=0e75b6&style=flat" alt="ziobrowskipiotr" /> </p>
 <p align="center">
   <img src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955" width="60%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
