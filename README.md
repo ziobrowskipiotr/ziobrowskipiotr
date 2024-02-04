@@ -4,7 +4,7 @@
   <img src="https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955" width="60%" style="max-width: 480px;" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 <h1 align="center">Hi 👋, I'm Piotr Ziobrowski</h1>
-<h3 align="center">I would like to continue developing my skills and gaining experience in various IT industries. I hope that my progress will be noticeable here, and this platform will fuel my ambitions even further.</h3>
+<h3 align="center">I would like to continue developing my skills and gaining experience in various IT/ICT industries. I hope that my progress will be noticeable here, and this platform will fuel my ambitions even further.</h3>
 <h2 align="center">:fire: My statistics :fire:</h2>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ziobrowskipiotr&theme=dark&background=000000" /> </p>
 <p align="center"> </p>
