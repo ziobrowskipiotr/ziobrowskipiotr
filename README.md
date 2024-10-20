@@ -1,8 +1,3 @@
-<br clear="both">
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ziobrowskipiotr&label=Profile%20views&color=0e75b6&style=flat" alt="ziobrowskipiotr" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Piotr Ziobrowski</h1>
 
 <div align="center">
